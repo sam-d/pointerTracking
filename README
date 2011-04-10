@@ -1,0 +1,2 @@
+ Compile command:
+ g++ mainSingle.cpp -o rpt -I/usr/include/opencv -L/usr/lib  -lcv -lhighgui  -lcvaux -lstdc++ -I./
